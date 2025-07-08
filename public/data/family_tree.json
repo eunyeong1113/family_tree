@@ -1,0 +1,254 @@
+{
+  "name": "장영",
+  "attributes": {
+    "birth": "1900-01-01",
+    "location": "진분계",
+    "spouses": []
+  },
+  "children": [
+    {
+      "name": "규원",
+      "attributes": {
+        "birth": "1900-01-01",
+        "location": null,
+        "spouses": []
+      },
+      "children": [
+        {
+          "name": "종문",
+          "attributes": {
+            "birth": "1900-01-01",
+            "location": null,
+            "spouses": []
+          },
+          "children": [
+            {
+              "name": "민우",
+              "attributes": {
+                "birth": "1900-01-01",
+                "location": null,
+                "spouses": []
+              }
+            },
+            {
+              "name": "근영",
+              "attributes": {
+                "birth": "1900-01-01",
+                "location": null,
+                "spouses": []
+              }
+            }
+          ]
+        },
+        {
+          "name": "종성",
+          "attributes": {
+            "birth": "1900-01-01",
+            "location": null,
+            "spouses": []
+          },
+          "children": [
+            {
+              "name": "지은",
+              "attributes": {
+                "birth": "1900-01-01",
+                "location": null,
+                "spouses": []
+              }
+            },
+            {
+              "name": "예은",
+              "attributes": {
+                "birth": "1900-01-01",
+                "location": null,
+                "spouses": []
+              }
+            }
+          ]
+        },
+        {
+          "name": "종윤",
+          "attributes": {
+            "birth": "1900-01-01",
+            "location": null,
+            "spouses": []
+          },
+          "children": [
+            {
+              "name": "은우",
+              "attributes": {
+                "birth": "1900-01-01",
+                "location": null,
+                "spouses": []
+              }
+            }
+          ]
+        },
+        {
+          "name": "영숙",
+          "attributes": {
+            "birth": "1900-01-01",
+            "location": null,
+            "spouses": []
+          }
+        }
+      ]
+    },
+    {
+      "name": "규인",
+      "attributes": {
+        "birth": "1900-01-01",
+        "location": null,
+        "spouses": []
+      },
+      "children": [
+        {
+          "name": "종포",
+          "attributes": {
+            "birth": "1900-01-01",
+            "location": null,
+            "spouses": []
+          },
+          "children": [
+            {
+              "name": "은미",
+              "attributes": {
+                "birth": "1900-01-01",
+                "location": null,
+                "spouses": []
+              }
+            },
+            {
+              "name": "은영",
+              "attributes": {
+                "birth": "1900-01-01",
+                "location": null,
+                "spouses": []
+              }
+            }
+          ]
+        },
+        {
+          "name": "종찬",
+          "attributes": {
+            "birth": "1900-01-01",
+            "location": null,
+            "spouses": []
+          },
+          "children": [
+            {
+              "name": "선우",
+              "attributes": {
+                "birth": "1900-01-01",
+                "location": null,
+                "spouses": []
+              }
+            },
+            {
+              "name": "현우",
+              "attributes": {
+                "birth": "1900-01-01",
+                "location": null,
+                "spouses": []
+              }
+            }
+          ]
+        },
+        {
+          "name": "민숙",
+          "attributes": {
+            "birth": "1900-01-01",
+            "location": null,
+            "spouses": []
+          }
+        },
+        {
+          "name": "경선",
+          "attributes": {
+            "birth": "1900-01-01",
+            "location": null,
+            "spouses": []
+          }
+        }
+      ]
+    },
+    {
+      "name": "남규",
+      "attributes": {
+        "birth": "1900-01-01",
+        "location": null,
+        "spouses": []
+      },
+      "children": [
+        {
+          "name": "동환",
+          "attributes": {
+            "birth": "1900-01-01",
+            "location": null,
+            "spouses": []
+          }
+        },
+        {
+          "name": "동철",
+          "attributes": {
+            "birth": "1900-01-01",
+            "location": null,
+            "spouses": []
+          },
+          "children": [
+            {
+              "name": "관우",
+              "attributes": {
+                "birth": "1900-01-01",
+                "location": null,
+                "spouses": []
+              }
+            },
+            {
+              "name": "건우",
+              "attributes": {
+                "birth": "1900-01-01",
+                "location": null,
+                "spouses": []
+              }
+            }
+          ]
+        },
+        {
+          "name": "동윤",
+          "attributes": {
+            "birth": "1900-01-01",
+            "location": null,
+            "spouses": []
+          }
+        }
+      ]
+    },
+    {
+      "name": "규정",
+      "attributes": {
+        "birth": "1900-01-01",
+        "location": null,
+        "spouses": []
+      },
+      "children": [
+        {
+          "name": "창효",
+          "attributes": {
+            "birth": "1900-01-01",
+            "location": null,
+            "spouses": []
+          }
+        },
+        {
+          "name": "수민",
+          "attributes": {
+            "birth": "1900-01-01",
+            "location": null,
+            "spouses": []
+          }
+        }
+      ]
+    }
+  ]
+}
