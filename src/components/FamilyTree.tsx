@@ -20,7 +20,7 @@ export default function FamilyTree() {
 
   return (
     <div style={{ width: '100%', height: '100vh' }}>
-      <Tree data={treeData} orientation="horizontal" pathFunc="step" initialDepth={2} 
+      <Tree data={treeData} orientation="vertical" pathFunc="step" initialDepth={2} 
       />
     </div>
   )
