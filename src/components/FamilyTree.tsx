@@ -11,7 +11,7 @@ export default function FamilyTree() {
   const [treeData, setTreeData] = useState(null);
 
   useEffect(() => {
-    fetch('/data/family_tree.json')
+    fetch('/data/family_tree_complete.json')
       .then((res) => res.json())
       .then((data) => setTreeData(data));
   }, []);
